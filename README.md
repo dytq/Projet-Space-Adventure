@@ -17,4 +17,4 @@ Pour avoir plus d'information sur les fonctions utilisé taper sur l'ide help(fo
 https://www.youtube.com/watch?v=HHzKlz5XLBY
 
 # Version
-Version Beta 1.0 2016/2017 programmer sur windows, ide python IDLE. python 3.
+Version Beta 1.0 2016/2017 programmé sur windows, ide python IDLE. python 3.
