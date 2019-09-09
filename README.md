@@ -11,7 +11,7 @@ Le dossier contient:
 </ul>
 
 # Aide
-Pour avoir plus d'information sur les fonctions utilisé taper sur l'ide help(fonction)
+Pour avoir plus d'information sur les fonctions utilisées taper sur l'ide help(fonction)
 
 # Démo du jeu 
 https://www.youtube.com/watch?v=HHzKlz5XLBY
