@@ -1,5 +1,5 @@
 # Projet-Space-Adventure
-Petit jeu créer en python avec la bibliothèque tkinter 
+Petit jeu en python avec la bibliothèque tkinter 
 
 # Contenu du projet
 Le dossier contient:
